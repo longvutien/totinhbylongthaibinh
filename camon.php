@@ -19,7 +19,7 @@
 
 <div id="duong"><p>
 Những ngày qua ở bên cậu tớ cảm thấy</br>
-chẳng còn điều gì khiến tớ hạnh phúc hơn thế nữa</br>
+Chẳng còn điều gì khiến tớ hạnh phúc hơn thế nữa</br>
 Tớ không dám nói là sẽ yêu cậu đến hết cuộc đời này</br>
 Nhưng tớ dám chắc một điều là: "Tớ Yêu Cậu" chỉ vậy thôi!</p></div>
 
