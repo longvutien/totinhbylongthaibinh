@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>[Tên bạn] Gửi Tặng Cho KênhIT.VN <3</title>
+<title>[Tên bạn]  <3</title>
 <link rel="shortcut icon" href="favicon.png"  type="image/png">
 <meta name="description" content="Gửi Tặng Em">
 <meta name="keywords" content="{keywords}">
